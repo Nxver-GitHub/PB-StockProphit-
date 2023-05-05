@@ -1,2 +1,2 @@
-# AIML-Virtual-StockPropnit
+# AIML-Virtual-StockProphit
 AIML-virtual-projectbracket-dvc
