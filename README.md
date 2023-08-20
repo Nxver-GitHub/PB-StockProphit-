@@ -5,9 +5,17 @@ I led the forefront of the development team a project manager working alongside 
 
 The development timeline of this project was during the 2023 Spring semester for Project Bracket (March - May).
 
+
 Development Team:
-Project Managers - Surya Pugazhenthi, Max Shikhaleev, Jacky Wong
-Back-end engineers - Khashayar Moradpour, Shizuka Takao, Jason Lin (PMs were also involved in back-end dev)
+
+Project Managers
+
+-Surya Pugazhenthi, Max Shikhaleev, Jacky Wong
+
+Back-end engineers 
+
+-Khashayar Moradpour, Shizuka Takao, Jason Lin (PMs were also involved in back-end dev)
+
 
 Notion for Project Documentation/Organization:
 https://www.notion.so/StockProphit-PB-AI-ML-Virtual-0b1265af558c4794904ecc6555cb8316
