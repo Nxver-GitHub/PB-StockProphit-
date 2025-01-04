@@ -27,8 +27,6 @@ Matplotlib
 
 
 
-Notion for Project Documentation/Organization:
-https://www.notion.so/StockProphit-PB-AI-ML-Virtual-0b1265af558c4794904ecc6555cb8316
 
 
 **NOTE: PLEASE USE YOUR OWN API KEY FOR POLYGON**
