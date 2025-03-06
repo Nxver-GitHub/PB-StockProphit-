@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 
 # Set API key (please use your own)
-API_KEY = 'bqPCHMpoyJBfZ3FAmtj23bq821Kx6IGh'
+API_KEY = ''
 
 # Prompt the user to enter a stock ticker, start date, end date
 ticker = input("Enter the company ticker: ")
